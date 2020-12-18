@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+in .env
+PORT = 5000
+DB_NAME = mongodb://localhost:27017/sofocle
 
 ## Available Scripts
 
